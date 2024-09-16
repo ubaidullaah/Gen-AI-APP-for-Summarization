@@ -1,1 +1,1 @@
-To run the app , First You need to create account on Groq and access an api and put it in .env file . This app is deployed with streamlit on local Host . After installing all the dependencies you can run it by streamlit run app.py command.
+To run the app , You need to create account on Groq and access an api and put it in .env file . This app is deployed with streamlit on local Host . After installing all the dependencies you can run it by streamlit run app.py command.
